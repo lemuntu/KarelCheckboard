@@ -15,7 +15,7 @@ This is a Karel the Robot program that creates a perfect checkerboard pattern. K
 - `turnAround()`: Helper function to turn Karel around
 
 ## How to Run
-1. Open your Karel IDE
+1. Open your Karel IDE: https://stanford.edu/~cpiech/karel/ide.html
 2. Copy the code from `Checkerboard.js`
 3. Run the program
 4. Watch as Karel creates a perfect checkerboard pattern!
